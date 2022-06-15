@@ -1,0 +1,15 @@
+C:\Users\Findus\Personal Projects\Programming\Csharp\TicTacToe_220122\bin\Debug\net6.0\TicTacToe_220122.exe
+C:\Users\Findus\Personal Projects\Programming\Csharp\TicTacToe_220122\bin\Debug\net6.0\TicTacToe_220122.deps.json
+C:\Users\Findus\Personal Projects\Programming\Csharp\TicTacToe_220122\bin\Debug\net6.0\TicTacToe_220122.runtimeconfig.json
+C:\Users\Findus\Personal Projects\Programming\Csharp\TicTacToe_220122\bin\Debug\net6.0\TicTacToe_220122.dll
+C:\Users\Findus\Personal Projects\Programming\Csharp\TicTacToe_220122\bin\Debug\net6.0\TicTacToe_220122.pdb
+C:\Users\Findus\Personal Projects\Programming\Csharp\TicTacToe_220122\obj\Debug\net6.0\TicTacToe_220122.csproj.AssemblyReference.cache
+C:\Users\Findus\Personal Projects\Programming\Csharp\TicTacToe_220122\obj\Debug\net6.0\TicTacToe_220122.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Findus\Personal Projects\Programming\Csharp\TicTacToe_220122\obj\Debug\net6.0\TicTacToe_220122.AssemblyInfoInputs.cache
+C:\Users\Findus\Personal Projects\Programming\Csharp\TicTacToe_220122\obj\Debug\net6.0\TicTacToe_220122.AssemblyInfo.cs
+C:\Users\Findus\Personal Projects\Programming\Csharp\TicTacToe_220122\obj\Debug\net6.0\TicTacToe_220122.csproj.CoreCompileInputs.cache
+C:\Users\Findus\Personal Projects\Programming\Csharp\TicTacToe_220122\obj\Debug\net6.0\TicTacToe_220122.dll
+C:\Users\Findus\Personal Projects\Programming\Csharp\TicTacToe_220122\obj\Debug\net6.0\refint\TicTacToe_220122.dll
+C:\Users\Findus\Personal Projects\Programming\Csharp\TicTacToe_220122\obj\Debug\net6.0\TicTacToe_220122.pdb
+C:\Users\Findus\Personal Projects\Programming\Csharp\TicTacToe_220122\obj\Debug\net6.0\TicTacToe_220122.genruntimeconfig.cache
+C:\Users\Findus\Personal Projects\Programming\Csharp\TicTacToe_220122\obj\Debug\net6.0\ref\TicTacToe_220122.dll
